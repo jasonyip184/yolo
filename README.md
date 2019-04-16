@@ -1,5 +1,5 @@
 # yolo
 YOLO v3 Object Detection with Voice Feedback using gTTS
 
-Read about it at:
-Email me at jasonyip184@gmail for the yolov3.weights file
+Download the yolov3 weights from
+https://pjreddie.com/media/files/yolov3.weights
